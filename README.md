@@ -24,7 +24,7 @@ reveal.js comes with a broad range of features including [nested slides](https:/
   - [Presentation State](#presentation-state)
   - [Slide States](#slide-states)
   - [Slide Backgrounds](#slide-backgrounds)
-  - [Parallax Background](#parallax-background) 
+  - [Parallax Background](#parallax-background)
   - [Slide Transitions](#slide-transitions)
   - [Internal links](#internal-links)
   - [Fragments](#fragments)
