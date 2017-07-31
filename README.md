@@ -24,7 +24,7 @@ reveal.js comes with a broad range of features including [nested slides](https:/
   - [Presentation State](#presentation-state)
   - [Slide States](#slide-states)
   - [Slide Backgrounds](#slide-backgrounds)
-  - [Parallax Background](#parallax-background) 特点是每次翻页时会有轻微移动，可提供几款好看的给用户选择.
+  - [Parallax Background](#parallax-background) 
   - [Slide Transitions](#slide-transitions)
   - [Internal links](#internal-links)
   - [Fragments](#fragments)
